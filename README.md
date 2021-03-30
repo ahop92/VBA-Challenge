@@ -2,8 +2,7 @@
 
 ## Background (added manually on 3/29/21)
 
-The VBA script written sifts through the raw stock data provided in .xlsx format to summarize the progress of different stocks in a given year. The file was adjusted to be macro enabled in order to successfully 
-run a VBA script.
+The VBA script written sifts through the raw stock data provided in .xlsx format to summarize the progress of different stocks in a given year. The file was adjusted to be macro enabled in order to successfully run a VBA script.
 
 Stock Data File: Multiple_year_stock_data.xlsm
 
