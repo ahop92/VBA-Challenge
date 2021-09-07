@@ -1,4 +1,4 @@
-# VBA-Challenge
+# Stock Categorization and Financial Analysis
 
 ## Background (added manually on 3/29/21)
 
